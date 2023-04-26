@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bengisu</h1>
-<h3 align="center">I am Computer Science and Engineering Student</h3>
+<h3 align="center">Computer Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bengisuozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="bengisuozdemir" /> </p>
 
