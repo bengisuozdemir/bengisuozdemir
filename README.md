@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bengisu</h1>
 <h3 align="center">Computer Science and Engineering Graduate from Sabancı University - 2023</h3>
-<h3 align="center">Software Developer at Turkcell</h3>
+<h3 align="center">Information Systems Master Student @TUM</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bengisuozdemir&label=Profile%20views&color=0e75b6&style=flat" alt="bengisuozdemir" /> </p>
 
 <h3 align="left">Connect with me:</h3>
