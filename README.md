@@ -61,13 +61,6 @@ I'm a software engineer and data specialist with a background in production ETL 
 
 ---
 
-## 📌 Highlights
-
-- 🏆 **3rd place** — Microsoft AI Agent Hackathon for Students, Munich 2025
-- 📄 **Patent filed** — Interactive talking avatar system for enterprise videowalls (TR 2025/009189)
-- 🎓 Thesis: *Smart Ports with ML & Optimization* — Sabancı University, 2023
-- 🤿 CMAS 1★ certified diver
-
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bengisuozdemir&)](https://github.com/bengisuozdemir)
